@@ -8,13 +8,15 @@ N'hésitez pas à le rejoindre sur sa chaine Youtube : [https://www.youtube.com/
 
 # Format du Flag
 
+```
 Noobo{<CODE_AVION>_<TERMINAL>_<CODE OACI départ>_<Heure porte départ>_<CODE OACI arrivée>_<Heure porte arrivée>}
+```
 
 
 Exemple :
-Noobo{E170_T2A_LYN_21:28_LRT_23:01}
-Noobo{B738_T1C_CDG_07:40_MRS_09:05}
-Noobo{A319_T3B_LYS_17:00_ORY_21:40}
+- Noobo{E170_T2A_LYN_21:28_LRT_23:01}
+- Noobo{B738_T1C_CDG_07:40_MRS_09:05}
+- Noobo{A319_T3B_LYS_17:00_ORY_21:40}
 
 
 
